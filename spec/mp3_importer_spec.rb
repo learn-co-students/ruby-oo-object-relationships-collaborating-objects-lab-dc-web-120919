@@ -1,5 +1,6 @@
 require 'spec_helper'
 require 'pry'
+require_relative "../lib/mp3_importer.rb"
 
 describe "MP3Importer" do
   describe '#initialize' do
